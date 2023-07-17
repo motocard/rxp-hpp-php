@@ -1,5 +1,5 @@
 {
-  "name": "realexpayments/rxp-hpp-php",
+  "name": "motocard/rxp-hpp-php",
   "type": "library",
   "description": "SDK to send requests and parse responses from Realex Payments using HPP",
   "keywords": [
