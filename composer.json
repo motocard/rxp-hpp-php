@@ -22,7 +22,7 @@
   "require": {
     "php": ">=5.3.9",
     "apache/log4php": "^2.3",
-    "symfony/validator": "^3.4|^4.0",
+    "symfony/validator": "^3.4|^4.0|^5.0|^6.0",
     "doctrine/annotations":"^1.2",
     "doctrine/cache":"^1.6|^2.0"
   },
